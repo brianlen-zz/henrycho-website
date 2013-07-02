@@ -32,7 +32,7 @@ body {
 	width:10em;
 	height:10em;
 	background-color:#FFFFFF;
-	padding-right:10px;
+	
 }
 
 #nav-menu ul {
@@ -52,14 +52,13 @@ body {
 	height:2em;
 	line-height:2em;
 	float:;
-	width:10.2em;
+	width:10em;
 	display:block;
 	border: 0.1em solid #dcdce9;
 	color:#0d2474;
 	text-decoration:none;
 	text-align:center;
 }
-
 
 a:hover {
 	color:#cc0000;
