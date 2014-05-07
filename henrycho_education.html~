@@ -36,18 +36,18 @@
 	
 	
 	
-	<div class="paragraphtitle">
+	<div>
 	<h3>Education</h3>
 	</div>
 	
-	<div class="paragraph">
+	<div id="university">
 	<h4>B.S.E. Aerospace Engineering</h4>
 	<p>University of Michigan: College of Engineering
 	<br>September 2010 &ndash; April 2015
 	<br>Ann Arbor, Michigan</p>
 	</div>
 	
-	<div class="paragraph">
+	<div id="highschool">
 	<h4>High School Diploma</h4>
 	<p>Rosemead High School
 	<br>September 2006 &ndash; June 2010

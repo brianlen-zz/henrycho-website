@@ -18,9 +18,12 @@
 
 
 		<div class="container">
-			<div class="header">
-
-
+			<div class="header"></div>
+		</div>
+	
+	
+	
+	
 		<div id="nav-menu">
 			<ul>
 				<li><a href="henrycho.html">About Me</a></li>
@@ -28,18 +31,6 @@
 				<li><a href="henrycho_experience.html">Experience</a></li>
 			</ul>
 		</div>
-
-
-
-		</div>
-		
-
-</div>
-	
-	
-	
-	
-		
 	
 		</header>
 	
