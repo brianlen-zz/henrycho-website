@@ -38,15 +38,14 @@ body {
 }
 
 #nav-menu ul {
-	clear:both;
+	clear:both;			/*clear to turn off float*/
 	list-style:none;		/*removes bullet points*/
 	padding:0;			/*space between the element border and the element content: top right bottom left*/
 	margin:0;			/*margin around: top right bottom left*/
 }
 
 #nav-menu li {
-	float:left;
-	margin:0 0.15em;
+	float:left;			/*alignment*/
 	margin:0;
 	padding:0;
 }
@@ -59,12 +58,18 @@ body {
 	display:block;
 	text-decoration:none;
 	text-align:center;
-
+	color:black;
 }
 
-a:hover {
-	color:#FFFFFF;
-	background-color: red; 
+#nav-menu li a:hover {
+	color:#000000;
+	background-color: yellow; 
+	
+	transition-property:all;
+	transition-duration:1s;
+	transition-timing-function:ease;
+	transition-delay:0s;
+
 }
 
 
